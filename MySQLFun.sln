@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLFun", "MySQLFun\MySQLFun.csproj", "{E26AC6F8-9105-429B-8015-980FC0A79B09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26AC6F8-9105-429B-8015-980FC0A79B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26AC6F8-9105-429B-8015-980FC0A79B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26AC6F8-9105-429B-8015-980FC0A79B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26AC6F8-9105-429B-8015-980FC0A79B09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66A71EF7-42DC-4CFB-9E1C-6ED86C770CF9}
+	EndGlobalSection
+EndGlobal
